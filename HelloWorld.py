@@ -3,4 +3,4 @@ print(x)
 if x == 'y':
 	print("Please give Question Bank!")
 else:
-	print("Sorry! you failed! :(")
+	print(" Sorry! you failed! :( ")
